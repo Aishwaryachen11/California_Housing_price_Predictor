@@ -63,7 +63,7 @@ A **custom feedforward deep neural network** was designed for regression using `
 
 We visualized the training and validation loss to monitor learning performance and detect overfitting.
 
-<img src="https://github.com/Aishwaryachen11/California_Housing_Predictor/blob/main/Images/training_validation_loss.png" alt="Training and Validation Loss" width="600"/>
+<img src="https://github.com/Aishwaryachen11/California_Housing_price_Predictor/blob/main/Cali_housing_loss_plot.png" alt="Training and Validation Loss" width="600"/>
 
 ---
 
