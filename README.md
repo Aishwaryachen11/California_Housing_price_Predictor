@@ -4,7 +4,7 @@
 This end-to-end machine learning project demonstrates how to predict housing prices in California using a deep neural network built with TensorFlow/Keras. The implementation showcases modern deep learning techniques such as dropout regularization, L2 regularization, and early stopping. The project also emphasizes model tuning and performance monitoring on real-world regression data.
 
 You can explore the notebook and run it live using Google Colab:  
-👉 [Open Colab Notebook](https://github.com/Aishwaryachen11/California_Housing_Predictor/blob/main/California_housing_Dataset.ipynb)
+[Open Colab Notebook](https://github.com/Aishwaryachen11/California_Housing_price_Predictor/blob/main/California_Housing_Dataset.ipynb)
 
 ---
 
@@ -19,7 +19,7 @@ You can explore the notebook and run it live using Google Colab:
 
 ## 🧪 Dataset Information
 
-- **Source**: [California Housing dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html)
+- **Source**: [California Housing dataset](https://keras.io/api/datasets/california_housing/)
 - **Features**: 8 numerical input features (e.g., Median Income, Avg. Rooms, Population)
 - **Target**: Median house value (in 100,000s)
 - **Total Samples**: ~20,000
